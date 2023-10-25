@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/akari/","tags":["gardenEntry"],"created":"2023-10-25T19:24:36.303+05:30","updated":"2023-10-25T22:18:30.316+05:30"}
+{"dg-publish":true,"permalink":"/akari/","pinned":"true","tags":["gardenEntry"],"created":"2023-10-25T19:24:36.303+05:30","updated":"2023-10-25T22:40:14.602+05:30"}
 ---
 
 Just my little corner on the internet to keep track of interesting algorithms I've come across in my competitive programming journey and possibly some write ups(/editorials) of popular problem sets(If I get the time to).
