@@ -29,10 +29,7 @@
 			// check if the least significant bit is set
 			if(n&1)
 				res*=a;
-			/* by multiplying a with a, we get a^2, which implies if a currently
-			stores a^p, then in the next iteration it has a^p+1, which is in
-			line with out algo, since we are checking for set bits from the
-			least significant(p0) to the most significant(pk)*/
+			/* by multiplying a with a, we get a^2, which implies if a currently stores a^p, then in the next iteration it has a^p+1, which is in line with out algo, since we are checking for set bits from the least significant(p0) to the most significant(pk)*/
 			a*=a;
 			res>=1;
 		}
@@ -44,6 +41,7 @@
 * The case explained here is just to drive home the main idea / intuition behind binary exponentiation.
 * The same idea can be used to solve various other similar problems, it's not just a way to find $a^n$ in $O(logn)$.
 ## Challenge
+**Note:** Assuming familiarity with **Iterative DP**
 Limak is always either happy or sad. His mood switches with probability $p$ every second. If Limak is happy right now, what is the probability that he's happy after $n$ seconds?
 ### Constraints
 * $1{\le}n {\le} 10^{9}$
