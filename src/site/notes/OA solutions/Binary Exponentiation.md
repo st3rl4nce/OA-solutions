@@ -22,14 +22,14 @@
 	* iterate the bitset of $n$ from left to right, in the process also find the power of $a$ till the no.of elements of bitset from the left have been covered till then.
 	* If the bit is set, then multiply the current power of $a$ stored in $a$ with $res$.
 * Code (C++)
-```
+```cpp
 	int pow(int a, int n){
 		int res = 1;
 		while(n>0){
 			// check if the least significant bit is set
 			if(n&1)
 				res*=a;
-			%% by multiplying a with a, we get a^2, which implies if a currently stores a^p, then in the next iteration it has a^p+1, which is in line with out algo, since we're checking for set bits from the least significant(p0) to the most significant(pk) %%
+			%% by multiplying a with a, we get a^2, which implies if a currently                stores a^p, then in the next iteration it has a^p+1, which is in                 line with out algo, since we are checking for set bits from the                   least significant(p0) to the most significant(pk) %%
 			a*=a;
 			res>=1;
 		}
