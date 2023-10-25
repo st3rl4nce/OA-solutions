@@ -29,10 +29,10 @@
 			// check if the least significant bit is set
 			if(n&1)
 				res*=a;
-			%% by multiplying a with a, we get a^2, which implies if a currently
+			/* by multiplying a with a, we get a^2, which implies if a currently
 			stores a^p, then in the next iteration it has a^p+1, which is in
 			line with out algo, since we are checking for set bits from the
-			least significant(p0) to the most significant(pk) %%
+			least significant(p0) to the most significant(pk)*/
 			a*=a;
 			res>=1;
 		}
