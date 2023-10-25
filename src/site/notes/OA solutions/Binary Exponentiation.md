@@ -40,3 +40,11 @@
 	}
 ```
 
+# Conclusion
+* The case explained here is just to drive home the main idea / intuition behind binary exponentiation.
+* The same idea can be used to solve various other similar problems, it's not just a way to find $a^n$ in $O(logn)$.
+## Challenge
+Limak is always either happy or sad. His mood switches with probability $p$ every second. If Limak is happy right now, what is the probability that he's happy after $n$ seconds?
+### Constraints
+* $1{\le}n {\le} 10^{9}$
+* $0{\le}p{\le}1$
