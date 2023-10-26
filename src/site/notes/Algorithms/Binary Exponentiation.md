@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/algorithms/binary-exponentiation/","created":"2023-10-25T02:28:07.135+05:30","updated":"2023-10-25T12:26:25.971+05:30"}
+{"dg-publish":true,"permalink":"/algorithms/binary-exponentiation/","created":"2023-10-25T02:28:07.135+05:30","updated":"2023-10-25T22:50:43.722+05:30"}
 ---
 
 # What does it solve in general?
