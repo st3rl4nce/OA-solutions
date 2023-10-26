@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/akari/","pinned":"true","tags":["gardenEntry"],"created":"2023-10-25T19:24:36.303+05:30","updated":"2023-10-26T13:56:20.978+05:30"}
+{"dg-publish":true,"permalink":"/akari/","pinned":"true","tags":["gardenEntry"],"created":"2023-10-25T19:24:36.303+05:30","updated":"2023-10-26T14:02:45.169+05:30"}
 ---
 
 Just my little corner on the internet to keep track of interesting algorithms and puzzles(/brain teasers) I've come across in my competitive programming journey and possibly some write ups(/editorials) of popular problem sets(If I get the time to).
@@ -11,6 +11,6 @@ Credentials: Not any great things, but for what it's worth I'm an expert on Code
 
 # Site Map
 * [[Algorithms/Algos\|Algos]]
-* 
+* [[Brainteasers/Brainteasers\|Brainteasers]]
 * [[Problemsets/Problemsets\|Problemsets]]
 
