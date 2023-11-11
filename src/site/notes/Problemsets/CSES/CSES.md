@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/problemsets/cses/cses/","pinned":true,"created":"2023-10-26T06:59:24.295+05:30","updated":"2023-10-26T10:35:54.290+05:30"}
+{"dg-publish":true,"permalink":"/problemsets/cses/cses/","pinned":true,"created":"2023-10-26T06:59:24.295+05:30","updated":"2023-11-11T17:10:32.390+05:30"}
 ---
 
 # Introductory Problems
@@ -12,7 +12,22 @@
 # Dynamic Programming
 # Graph Algorithms
 # Range Queries
+|Problem|Concept|
+|---|---|
+|[[Problemsets/CSES/Range Queries/Static Range Sum Queries\|Static Range Sum Queries]]|Prefix Sum|
+|[[Problemsets/CSES/Range Queries/Static Range Minimum Queries\|Static Range Minimum Queries]]|Seg Tree, Sparse Table|
+|[[Problemsets/CSES/Range Queries/Dynamic Range Sum Queries\|Dynamic Range Sum Queries]]|Seg Tree, Fenwick Tree|
+|[[Problemsets/CSES/Range Queries/Dynamic Range Minimum Queries\|Dynamic Range Minimum Queries]]|Seg Tree, Fenwick Tree|
+|[[Problemsets/CSES/Range Queries/Range Xor Queries\|Range Xor Queries]]|Seg Tree|
+|[[Problemsets/CSES/Range Queries/Range Update Queries\|Range Update Queries]]|Seg Tree|
+|[[Problemsets/CSES/Range Queries/Forest Queries\|Forest Queries]]|Prefix Sum(2D)|
+|[[Problemsets/CSES/Range Queries/Subarray Sum Queries\|Subarray Sum Queries]]|Seg Tree|
+
 # Tree Algorithms
+|Problem|Concept|
+|---|---|
+|[[Problemsets/CSES/Tree Algorithms/Subtree Queries\|Subtree Queries]]|Euler Tour, Segment Trees(/Range Queries)|
+|[[Problemsets/CSES/Tree Algorithms/Company Queries I\|Company Queries I]]|Kth Ancestor, Binary Lifting|
 # Mathematics
 | Problem | Concept |
 |--------- |---------|
