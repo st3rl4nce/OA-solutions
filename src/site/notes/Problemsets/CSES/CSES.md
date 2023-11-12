@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/problemsets/cses/cses/","pinned":true,"created":"2023-10-26T06:59:24.295+05:30","updated":"2023-11-11T17:10:32.390+05:30"}
+{"dg-publish":true,"permalink":"/problemsets/cses/cses/","pinned":true,"created":"2023-10-26T06:59:24.295+05:30","updated":"2023-11-12T14:28:19.782+05:30"}
 ---
 
 # Introductory Problems
@@ -22,6 +22,7 @@
 |[[Problemsets/CSES/Range Queries/Range Update Queries\|Range Update Queries]]|Seg Tree|
 |[[Problemsets/CSES/Range Queries/Forest Queries\|Forest Queries]]|Prefix Sum(2D)|
 |[[Problemsets/CSES/Range Queries/Subarray Sum Queries\|Subarray Sum Queries]]|Seg Tree|
+|[[Problemsets/CSES/Range Queries/Prefix Sum Queries\|Prefix Sum Queries]]|Seg Tree|
 
 # Tree Algorithms
 |Problem|Concept|
