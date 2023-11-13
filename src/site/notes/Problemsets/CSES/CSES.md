@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/problemsets/cses/cses/","pinned":true,"created":"2023-10-26T06:59:24.295+05:30","updated":"2023-11-12T14:28:19.782+05:30"}
+{"dg-publish":true,"permalink":"/problemsets/cses/cses/","pinned":true,"created":"2023-10-26T06:59:24.295+05:30","updated":"2023-11-13T14:56:06.645+05:30"}
 ---
 
 # Introductory Problems
@@ -29,6 +29,8 @@
 |---|---|
 |[[Problemsets/CSES/Tree Algorithms/Subtree Queries\|Subtree Queries]]|Euler Tour, Segment Trees(/Range Queries)|
 |[[Problemsets/CSES/Tree Algorithms/Company Queries I\|Company Queries I]]|Kth Ancestor, Binary Lifting|
+|[[Problemsets/CSES/Tree Algorithms/Company Queries II\|Company Queries II]]|Euler Tour, Seg Tree, LCA|
+|[[Problemsets/CSES/Tree Algorithms/Distance Queries\|Distance Queries]]|Euler Tour, Seg Tree, LCA|
 # Mathematics
 | Problem | Concept |
 |--------- |---------|
