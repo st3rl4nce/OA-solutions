@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/problemsets/cses/cses/","pinned":true,"created":"2023-10-26T06:59:24.295+05:30","updated":"2023-11-13T14:56:06.645+05:30"}
+{"dg-publish":true,"permalink":"/problemsets/cses/cses/","pinned":true,"created":"2023-10-26T06:59:24.295+05:30","updated":"2023-11-14T16:24:13.314+05:30"}
 ---
 
 # Introductory Problems
@@ -12,9 +12,9 @@
 # Dynamic Programming
 # Graph Algorithms
 # Range Queries
-|Problem|Concept|
-|---|---|
-|[[Problemsets/CSES/Range Queries/Static Range Sum Queries\|Static Range Sum Queries]]|Prefix Sum|
+|Problem|Concept|Hint|
+|---|---|---|
+|[[Problemsets/CSES/Range Queries/Static Range Sum Queries\|Static Range Sum Queries]]|Prefix Sum|<details><summary>click</summary>f(l, r) = prefixSum(r)-prefixSum(l)</details>
 |[[Problemsets/CSES/Range Queries/Static Range Minimum Queries\|Static Range Minimum Queries]]|Seg Tree, Sparse Table|
 |[[Problemsets/CSES/Range Queries/Dynamic Range Sum Queries\|Dynamic Range Sum Queries]]|Seg Tree, Fenwick Tree|
 |[[Problemsets/CSES/Range Queries/Dynamic Range Minimum Queries\|Dynamic Range Minimum Queries]]|Seg Tree, Fenwick Tree|
